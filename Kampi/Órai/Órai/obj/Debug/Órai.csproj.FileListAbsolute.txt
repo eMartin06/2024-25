@@ -1,0 +1,7 @@
+H:\2024-25\Órai\Órai\bin\Debug\Órai.exe.config
+H:\2024-25\Órai\Órai\bin\Debug\Órai.exe
+H:\2024-25\Órai\Órai\bin\Debug\Órai.pdb
+H:\2024-25\Órai\Órai\obj\Debug\Órai.csproj.AssemblyReference.cache
+H:\2024-25\Órai\Órai\obj\Debug\Órai.csproj.CoreCompileInputs.cache
+H:\2024-25\Órai\Órai\obj\Debug\Órai.exe
+H:\2024-25\Órai\Órai\obj\Debug\Órai.pdb

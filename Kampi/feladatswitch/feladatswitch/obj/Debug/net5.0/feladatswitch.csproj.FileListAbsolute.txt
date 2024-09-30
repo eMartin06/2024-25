@@ -1,0 +1,16 @@
+H:\2024-25\Kampi\feladatswitch\feladatswitch\bin\Debug\net5.0\feladatswitch.exe
+H:\2024-25\Kampi\feladatswitch\feladatswitch\bin\Debug\net5.0\feladatswitch.deps.json
+H:\2024-25\Kampi\feladatswitch\feladatswitch\bin\Debug\net5.0\feladatswitch.runtimeconfig.json
+H:\2024-25\Kampi\feladatswitch\feladatswitch\bin\Debug\net5.0\feladatswitch.runtimeconfig.dev.json
+H:\2024-25\Kampi\feladatswitch\feladatswitch\bin\Debug\net5.0\feladatswitch.dll
+H:\2024-25\Kampi\feladatswitch\feladatswitch\bin\Debug\net5.0\ref\feladatswitch.dll
+H:\2024-25\Kampi\feladatswitch\feladatswitch\bin\Debug\net5.0\feladatswitch.pdb
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.AssemblyInfoInputs.cache
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.AssemblyInfo.cs
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.dll
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\ref\feladatswitch.dll
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.pdb
+H:\2024-25\Kampi\feladatswitch\feladatswitch\obj\Debug\net5.0\feladatswitch.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+H:\2024-25\Kampi\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\erdeim\source\repos\ifelse\ifelse\bin\Debug\net5.0\ifelse.exe
+C:\Users\erdeim\source\repos\ifelse\ifelse\bin\Debug\net5.0\ifelse.deps.json
+C:\Users\erdeim\source\repos\ifelse\ifelse\bin\Debug\net5.0\ifelse.runtimeconfig.json
+C:\Users\erdeim\source\repos\ifelse\ifelse\bin\Debug\net5.0\ifelse.runtimeconfig.dev.json
+C:\Users\erdeim\source\repos\ifelse\ifelse\bin\Debug\net5.0\ifelse.dll
+C:\Users\erdeim\source\repos\ifelse\ifelse\bin\Debug\net5.0\ref\ifelse.dll
+C:\Users\erdeim\source\repos\ifelse\ifelse\bin\Debug\net5.0\ifelse.pdb
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.csproj.AssemblyReference.cache
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.AssemblyInfoInputs.cache
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.AssemblyInfo.cs
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.dll
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ref\ifelse.dll
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.pdb
+C:\Users\erdeim\source\repos\ifelse\ifelse\obj\Debug\net5.0\ifelse.genruntimeconfig.cache

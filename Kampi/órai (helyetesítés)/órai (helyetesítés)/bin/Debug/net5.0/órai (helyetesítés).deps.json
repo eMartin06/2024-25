@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "órai (helyetesítés)/1.0.0": {
+        "runtime": {
+          "órai (helyetesítés).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "órai (helyetesítés)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
