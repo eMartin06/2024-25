@@ -1,0 +1,16 @@
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\bin\Debug\net5.0\Feladatforciklus.exe
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\bin\Debug\net5.0\Feladatforciklus.deps.json
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\bin\Debug\net5.0\Feladatforciklus.runtimeconfig.json
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\bin\Debug\net5.0\Feladatforciklus.runtimeconfig.dev.json
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\bin\Debug\net5.0\Feladatforciklus.dll
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\bin\Debug\net5.0\ref\Feladatforciklus.dll
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\bin\Debug\net5.0\Feladatforciklus.pdb
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.AssemblyInfoInputs.cache
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.AssemblyInfo.cs
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.dll
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\ref\Feladatforciklus.dll
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.pdb
+H:\2024-25\Kampi\Feladatforciklus\Feladatforciklus\obj\Debug\net5.0\Feladatforciklus.genruntimeconfig.cache
