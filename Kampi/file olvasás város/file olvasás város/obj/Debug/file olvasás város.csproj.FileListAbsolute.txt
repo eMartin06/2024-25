@@ -1,0 +1,7 @@
+H:\2024-25\Kampi\file olvasás város\file olvasás város\bin\Debug\file olvasás város.exe.config
+H:\2024-25\Kampi\file olvasás város\file olvasás város\bin\Debug\file olvasás város.exe
+H:\2024-25\Kampi\file olvasás város\file olvasás város\bin\Debug\file olvasás város.pdb
+H:\2024-25\Kampi\file olvasás város\file olvasás város\obj\Debug\file olvasás város.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\file olvasás város\file olvasás város\obj\Debug\file olvasás város.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\file olvasás város\file olvasás város\obj\Debug\file olvasás város.exe
+H:\2024-25\Kampi\file olvasás város\file olvasás város\obj\Debug\file olvasás város.pdb
