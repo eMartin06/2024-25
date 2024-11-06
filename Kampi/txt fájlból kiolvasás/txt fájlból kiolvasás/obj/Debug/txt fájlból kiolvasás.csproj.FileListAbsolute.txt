@@ -1,0 +1,7 @@
+H:\2024-25\Kampi\txt fájlból kiolvasás\txt fájlból kiolvasás\bin\Debug\txt fájlból kiolvasás.exe.config
+H:\2024-25\Kampi\txt fájlból kiolvasás\txt fájlból kiolvasás\bin\Debug\txt fájlból kiolvasás.exe
+H:\2024-25\Kampi\txt fájlból kiolvasás\txt fájlból kiolvasás\bin\Debug\txt fájlból kiolvasás.pdb
+H:\2024-25\Kampi\txt fájlból kiolvasás\txt fájlból kiolvasás\obj\Debug\txt fájlból kiolvasás.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\txt fájlból kiolvasás\txt fájlból kiolvasás\obj\Debug\txt fájlból kiolvasás.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\txt fájlból kiolvasás\txt fájlból kiolvasás\obj\Debug\txt fájlból kiolvasás.exe
+H:\2024-25\Kampi\txt fájlból kiolvasás\txt fájlból kiolvasás\obj\Debug\txt fájlból kiolvasás.pdb

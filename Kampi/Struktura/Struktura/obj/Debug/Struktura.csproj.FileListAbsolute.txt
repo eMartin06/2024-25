@@ -1,0 +1,7 @@
+H:\2024-25\Kampi\Struktura\Struktura\bin\Debug\Struktura.exe.config
+H:\2024-25\Kampi\Struktura\Struktura\bin\Debug\Struktura.exe
+H:\2024-25\Kampi\Struktura\Struktura\bin\Debug\Struktura.pdb
+H:\2024-25\Kampi\Struktura\Struktura\obj\Debug\Struktura.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\Struktura\Struktura\obj\Debug\Struktura.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\Struktura\Struktura\obj\Debug\Struktura.exe
+H:\2024-25\Kampi\Struktura\Struktura\obj\Debug\Struktura.pdb

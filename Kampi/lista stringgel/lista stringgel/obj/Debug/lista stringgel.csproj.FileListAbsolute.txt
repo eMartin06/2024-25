@@ -1,0 +1,7 @@
+H:\2024-25\Kampi\lista stringgel\lista stringgel\bin\Debug\lista stringgel.exe.config
+H:\2024-25\Kampi\lista stringgel\lista stringgel\bin\Debug\lista stringgel.exe
+H:\2024-25\Kampi\lista stringgel\lista stringgel\bin\Debug\lista stringgel.pdb
+H:\2024-25\Kampi\lista stringgel\lista stringgel\obj\Debug\lista stringgel.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\lista stringgel\lista stringgel\obj\Debug\lista stringgel.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\lista stringgel\lista stringgel\obj\Debug\lista stringgel.exe
+H:\2024-25\Kampi\lista stringgel\lista stringgel\obj\Debug\lista stringgel.pdb

@@ -1,0 +1,7 @@
+H:\2024-25\Kampi\strukt gyakorlás\strukt gyakorlás\bin\Debug\strukt gyakorlás.exe.config
+H:\2024-25\Kampi\strukt gyakorlás\strukt gyakorlás\bin\Debug\strukt gyakorlás.exe
+H:\2024-25\Kampi\strukt gyakorlás\strukt gyakorlás\bin\Debug\strukt gyakorlás.pdb
+H:\2024-25\Kampi\strukt gyakorlás\strukt gyakorlás\obj\Debug\strukt gyakorlás.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\strukt gyakorlás\strukt gyakorlás\obj\Debug\strukt gyakorlás.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\strukt gyakorlás\strukt gyakorlás\obj\Debug\strukt gyakorlás.exe
+H:\2024-25\Kampi\strukt gyakorlás\strukt gyakorlás\obj\Debug\strukt gyakorlás.pdb

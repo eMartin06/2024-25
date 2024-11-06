@@ -1,0 +1,7 @@
+H:\2024-25\Kampi\óraigyak\óraigyak\obj\Debug\óraigyak.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\óraigyak\óraigyak\obj\Debug\óraigyak.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\óraigyak\óraigyak\bin\Debug\óraigyak.exe.config
+H:\2024-25\Kampi\óraigyak\óraigyak\bin\Debug\óraigyak.exe
+H:\2024-25\Kampi\óraigyak\óraigyak\bin\Debug\óraigyak.pdb
+H:\2024-25\Kampi\óraigyak\óraigyak\obj\Debug\óraigyak.exe
+H:\2024-25\Kampi\óraigyak\óraigyak\obj\Debug\óraigyak.pdb
