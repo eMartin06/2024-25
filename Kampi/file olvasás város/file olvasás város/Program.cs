@@ -17,7 +17,7 @@ namespace file_olvasás_város
             string város = Console.ReadLine();
             while (!lista.EndOfStream)
             {
-                string[] tartalom = lista.ReadLine().Split();
+                string[] tartalom = lista.ReadLine().Split(' ');
                 if (tartalom[1]== város)
                 {
                     összeg += int.Parse(tartalom[2]);
