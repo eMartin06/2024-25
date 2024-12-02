@@ -1,0 +1,10 @@
+H:\2024-25\Kampi\form számológép\form számológép\obj\Debug\form számológép.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\form számológép\form számológép\obj\Debug\form_számológép.Form1.resources
+H:\2024-25\Kampi\form számológép\form számológép\obj\Debug\form_számológép.Properties.Resources.resources
+H:\2024-25\Kampi\form számológép\form számológép\obj\Debug\form számológép.csproj.GenerateResource.cache
+H:\2024-25\Kampi\form számológép\form számológép\obj\Debug\form számológép.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\form számológép\form számológép\bin\Debug\form számológép.exe.config
+H:\2024-25\Kampi\form számológép\form számológép\bin\Debug\form számológép.exe
+H:\2024-25\Kampi\form számológép\form számológép\bin\Debug\form számológép.pdb
+H:\2024-25\Kampi\form számológép\form számológép\obj\Debug\form számológép.exe
+H:\2024-25\Kampi\form számológép\form számológép\obj\Debug\form számológép.pdb

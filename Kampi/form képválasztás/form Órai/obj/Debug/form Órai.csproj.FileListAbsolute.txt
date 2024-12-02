@@ -1,0 +1,20 @@
+C:\Users\erdeim\source\repos\form Órai\form Órai\bin\Debug\form Órai.exe.config
+C:\Users\erdeim\source\repos\form Órai\form Órai\bin\Debug\form Órai.exe
+C:\Users\erdeim\source\repos\form Órai\form Órai\bin\Debug\form Órai.pdb
+C:\Users\erdeim\source\repos\form Órai\form Órai\obj\Debug\form Órai.csproj.AssemblyReference.cache
+C:\Users\erdeim\source\repos\form Órai\form Órai\obj\Debug\form_Órai.Form1.resources
+C:\Users\erdeim\source\repos\form Órai\form Órai\obj\Debug\form_Órai.Properties.Resources.resources
+C:\Users\erdeim\source\repos\form Órai\form Órai\obj\Debug\form Órai.csproj.GenerateResource.cache
+C:\Users\erdeim\source\repos\form Órai\form Órai\obj\Debug\form Órai.csproj.CoreCompileInputs.cache
+C:\Users\erdeim\source\repos\form Órai\form Órai\obj\Debug\form Órai.exe
+C:\Users\erdeim\source\repos\form Órai\form Órai\obj\Debug\form Órai.pdb
+H:\2024-25\Kampi\form képválasztás\form Órai\bin\Debug\form Órai.exe.config
+H:\2024-25\Kampi\form képválasztás\form Órai\bin\Debug\form Órai.exe
+H:\2024-25\Kampi\form képválasztás\form Órai\bin\Debug\form Órai.pdb
+H:\2024-25\Kampi\form képválasztás\form Órai\obj\Debug\form Órai.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\form képválasztás\form Órai\obj\Debug\form_Órai.Form1.resources
+H:\2024-25\Kampi\form képválasztás\form Órai\obj\Debug\form_Órai.Properties.Resources.resources
+H:\2024-25\Kampi\form képválasztás\form Órai\obj\Debug\form Órai.csproj.GenerateResource.cache
+H:\2024-25\Kampi\form képválasztás\form Órai\obj\Debug\form Órai.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\form képválasztás\form Órai\obj\Debug\form Órai.exe
+H:\2024-25\Kampi\form képválasztás\form Órai\obj\Debug\form Órai.pdb

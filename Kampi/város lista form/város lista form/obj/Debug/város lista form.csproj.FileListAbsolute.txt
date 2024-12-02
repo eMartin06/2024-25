@@ -1,0 +1,10 @@
+H:\2024-25\Kampi\város lista form\város lista form\bin\Debug\város lista form.exe.config
+H:\2024-25\Kampi\város lista form\város lista form\bin\Debug\város lista form.exe
+H:\2024-25\Kampi\város lista form\város lista form\bin\Debug\város lista form.pdb
+H:\2024-25\Kampi\város lista form\város lista form\obj\Debug\város lista form.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\város lista form\város lista form\obj\Debug\város_lista_form.Form1.resources
+H:\2024-25\Kampi\város lista form\város lista form\obj\Debug\város_lista_form.Properties.Resources.resources
+H:\2024-25\Kampi\város lista form\város lista form\obj\Debug\város lista form.csproj.GenerateResource.cache
+H:\2024-25\Kampi\város lista form\város lista form\obj\Debug\város lista form.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\város lista form\város lista form\obj\Debug\város lista form.exe
+H:\2024-25\Kampi\város lista form\város lista form\obj\Debug\város lista form.pdb
