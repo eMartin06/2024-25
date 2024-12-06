@@ -1,0 +1,10 @@
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\bin\Debug\form képvál dolg.exe.config
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\bin\Debug\form képvál dolg.exe
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\bin\Debug\form képvál dolg.pdb
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\obj\Debug\form képvál dolg.csproj.AssemblyReference.cache
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\obj\Debug\form_képvál_dolg.Form1.resources
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\obj\Debug\form_képvál_dolg.Properties.Resources.resources
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\obj\Debug\form képvál dolg.csproj.GenerateResource.cache
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\obj\Debug\form képvál dolg.csproj.CoreCompileInputs.cache
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\obj\Debug\form képvál dolg.exe
+H:\2024-25\Kampi\form képvál dolg\form képvál dolg\obj\Debug\form képvál dolg.pdb

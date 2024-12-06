@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form képválasztás órai 2", "form képválasztás órai 2\form képválasztás órai 2.csproj", "{681DAFF5-452A-491A-A85C-7A25AE4C66F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681DAFF5-452A-491A-A85C-7A25AE4C66F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681DAFF5-452A-491A-A85C-7A25AE4C66F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681DAFF5-452A-491A-A85C-7A25AE4C66F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681DAFF5-452A-491A-A85C-7A25AE4C66F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6ABE17-E29C-4AD4-8A83-88C38DB72C7B}
+	EndGlobalSection
+EndGlobal
